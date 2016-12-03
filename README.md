@@ -1,0 +1,2 @@
+# ViewPagerAddFragment
+封装好了的ViewPager包含指示器使用时只需要继承BaseViewPagerFragment
